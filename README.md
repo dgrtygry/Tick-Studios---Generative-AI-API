@@ -16,4 +16,6 @@ To use G.A.A Video generator and G.A.A Audio generator, You take "noisy.bat" out
 
 To use G.A.A Chatbot, Just open "chatbot-brain" folder and run "gaa.bat". If you want to train the chatbot, Just run "train.bat". 
 
-To use G.A.A Code generator, You must open up "Code-Gen" folder and once I am done implementing G.A.A Code generator, More instructions will go here.
+To use G.A.A Code generator, You must open up "Code-Gen" folder and run "generate_code.bat". And the script will do its thing. NOTE: You must have Powershell installed as if you don't, You won't be able to run the code generator.
+
+Have fun testing!"
