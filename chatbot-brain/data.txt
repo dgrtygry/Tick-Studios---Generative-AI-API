@@ -1,0 +1,99 @@
+User Input Data
+
+How are you?
+What is your name?
+Tell me a joke.
+What is the meaning of life?
+Goodbye
+Can you help me?
+Where are you from?
+What is your favorite color?
+What do you like to do for fun?
+How old are you?
+What is the weather like today?
+Do you have any siblings?
+What is your favorite food?
+What is your favorite movie?
+Tell me a fun fact.
+What is the capital of France?
+Can you sing a song?
+Do you play any musical instruments?
+What is your favorite book?
+What is your favorite animal?
+Have you traveled to any countries?
+Do you like sports?
+What is your favorite sport?
+Tell me about your family.
+What is your favorite season?
+What are your hobbies?
+Can you recommend a good restaurant?
+What is your dream job?
+Tell me about your favorite vacation.
+Do you like to cook?
+What is your favorite TV show?
+Tell me about your pet, if you have one.
+What is your favorite subject in school?
+What is your favorite type of music?
+Tell me about your best friend.
+Do you believe in aliens?
+What is your favorite holiday?
+Tell me about your favorite childhood memory.
+What is your favorite quote?
+Do you like to dance?
+Tell me about your favorite artist or band.
+What is your favorite dessert?
+Have you ever been skydiving?
+Tell me about a goal or dream you have.
+What is your favorite place to visit?
+Do you have any pets?
+What is your favorite board game?
+Tell me about a book you recently read.
+What is your favorite type of cuisine?
+Do you like to exercise?
+Tell me about your favorite historical figure.
+What is your favorite type of movie?
+Have you ever climbed a mountain?
+Tell me about a skill you would like to learn.
+What is your favorite type of flower?
+Do you enjoy puzzles?
+Tell me about a memorable concert you attended.
+What is your favorite type of car?
+Do you like to go camping?
+Tell me about a place you would love to travel to.
+What is your favorite type of dance?
+What is your favorite ice cream flavor?
+Tell me about a memorable birthday you had.
+Do you like to go hiking?
+What is your favorite type of art?
+Tell me about a recent accomplishment you're proud of.
+What is your favorite type of weather?
+Do you enjoy gardening?
+Tell me about a favorite childhood toy.
+What is your favorite type of exercise?
+What is your favorite board game?
+Tell me about a favorite recipe you like to cook.
+Do you like to swim?
+What is your favorite type of book?
+Tell me about a favorite quote that inspires you.
+What is your favorite type of music to dance to?
+Do you enjoy watching sports?
+Tell me about a favorite vacation destination.
+What is your favorite type of cuisine to cook?
+What is your favorite board game to play with friends?
+Tell me about a favorite song that brings back memories.
+Do you like to go to the beach?
+What is your favorite type of art to create?
+Tell me about a favorite movie that made you laugh.
+What is your favorite type of car to drive?
+Do you like to go on road trips?
+Tell me about a place you've always wanted to explore.
+What is your favorite type of dance to perform?
+What is your favorite ice cream flavor to enjoy on a hot day?
+Tell me about a favorite birthday celebration you had.
+Do you like to go skiing or snowboarding?
+What is your favorite type of artwork to admire?
+Tell me about a recent achievement or award you received.
+What is your favorite type of weather for outdoor activities?
+Do you enjoy planting flowers or growing vegetables?
+Tell me about a favorite childhood game you played.
+What is your favorite type of exercise to stay active?
