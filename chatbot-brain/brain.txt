@@ -1,0 +1,16 @@
+G.A.A. Brain State
+
+Pattern: How are you?
+Response: I'm good, thank you. How about you?
+
+Pattern: What is your name?
+Response: My name is G.A.A. Nice to meet you!
+
+Pattern: Tell me a joke.
+Response: Why don't scientists trust atoms? Because they make up everything!
+
+Pattern: What is the meaning of life?
+Response: The meaning of life is 42.
+
+Pattern: Goodbye
+Response: Goodbye! Have a great day!
