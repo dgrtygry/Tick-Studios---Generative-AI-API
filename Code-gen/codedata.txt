@@ -1,0 +1,28 @@
+Additional Data 1: Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+
+Additional Data 2: Ruby
+puts "Hello, World!"
+
+Additional Data 3: HTML
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hello, World!</title>
+</head>
+<body>
+    <h1>Hello, World!</h1>
+</body>
+</html>
+
+Additional Data 4: CSS
+h1 {
+    color: blue;
+}
+
+Additional Data 5: PowerShell
+Write-Host "Hello, World!"
