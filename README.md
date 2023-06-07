@@ -7,4 +7,3 @@ Currently this AI is in Alpha. Once it is complete, I will put this API on a web
 
 For now, I will be developing this AI as much as I can until the goal is met.
 
-If anyone wants to contribute, Just message me on discord @ https://discord.gg/4CuhWeBb
