@@ -10,5 +10,5 @@ $codeData = Get-Content -Path ".\codedata.txt" -Raw
 # Generate unique code based on user input
 $generatedCode = $codeBrain + $codeInput + $codeData
 
-# Save the generated code as "code.bin"
-$generatedCode | Set-Content -Path ".\code.bin" -Encoding Byte
+# Save the generated code as "code.txt"
+$generatedCode | Set-Content -Path ".\code.txt"
